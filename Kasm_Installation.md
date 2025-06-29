@@ -1,10 +1,8 @@
+![image](https://kasmweb.com/assets/images/logo.svg)
+
 ## Kasm
 
 [Kasm](https://kasmweb.com/) is a workspace streaming platform for delivering browsers, desktops and applications to the web browser.
-<br>
-
-![image](https://kasmweb.com/assets/images/logo.svg)
-<br>
 
 ## Installation
 
